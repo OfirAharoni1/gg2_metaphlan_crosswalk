@@ -1,0 +1,19 @@
+query	match	status	supporting_sgbs	supporting_sgb_count	gtdb_genera	evidence	unlinked_source_sgbs
+Bariatricus	Bariatricus	multiple_candidates	SGB4006	1	Bariatricus	shared_species_label	
+Bariatricus	Coprococcus	multiple_candidates	SGB4577	1	Bariatricus	shared_species_label	
+CAG-217	GGB3256	candidate	SGB4303	1	CAG-217	shared_species_label	
+Peribacillus		not_in_source_reference		0			
+Staphylococcus	Pseudoclavibacter	multiple_candidates	SGB23847,SGB23849	2	Pseudoclavibacter	taxonsync_single_name_taxid	
+Staphylococcus	Staphylococcus	multiple_candidates	SGB25075,SGB25085,SGB25087,SGB25088,SGB25091,SGB25103,SGB25106,SGB29687,SGB29698,SGB29712,SGB7815,SGB7816,SGB7822,SGB7823,SGB7824,SGB7825,SGB7826,SGB7827,SGB7828,SGB7829,SGB7830,SGB7831,SGB7832,SGB7833,SGB7834,SGB7835,SGB7836,SGB7837,SGB7838,SGB7839,SGB7840,SGB7841,SGB7842,SGB7843,SGB7844,SGB7845,SGB7846,SGB7847,SGB7848,SGB7850,SGB7851,SGB7852,SGB7853,SGB7854,SGB7855,SGB7856,SGB7857,SGB7858,SGB7859,SGB7860,SGB7861,SGB7862,SGB7863,SGB7864,SGB7865,SGB82651,SGB94573	57	Staphylococcus	shared_species_label,taxonsync_single_name_taxid	
+DTU014	GGB24949	candidate	SGB36862	1	DTU014	shared_species_label	
+G11		no_supported_match		0			
+RUG762	GGB25595	candidate	SGB37565	1	RUG762	shared_species_label	
+Anaerofilum_74150	Anaerofilum	candidate	SGB79822	1	Pygmaiobacter	taxonsync_single_name_taxid	
+DTU012	GGB25648	candidate	SGB37619	1	DTU012	shared_species_label	
+Escherichia	Arthrobacter	multiple_candidates	SGB111179	1	Arthrobacter_F	taxonsync_single_name_taxid	
+Escherichia	Escherichia	multiple_candidates	SGB10064,SGB10066,SGB10068	3	Escherichia	shared_species_label,taxonsync_single_name_taxid	
+Escherichia	Streptomyces	multiple_candidates	SGB87086	1	Streptomyces	taxonsync_single_name_taxid	
+Laedolimicola	Clostridia_unclassified	candidate	SGB41510	1	Laedolimicola	shared_species_label	
+Ornithomonas		not_in_source_reference		0			
+SFM01		not_in_source_reference		0			
+UBA5905	GGB9540	candidate	SGB14943	1	UBA5905	shared_species_label	
